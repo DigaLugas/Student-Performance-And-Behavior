@@ -10,9 +10,8 @@ Esse projeto tem como objetivo agrupar estudantes com base em seus comportamento
 |   |-- clustering_data_scaled.npy  
 |   |-- students_with_clusters.csv  
 |-- 📂 notebooks                     # Análises exploratórias e relatórios  
-|   |-- exploratory_analysis.ipynb  
-|   |-- cluster_analysis.ipynb  
-|   |-- cluster_visuals.ipynb  
+|   |-- exploratory_analysis.py  
+|   |-- cluster_visuals.py  
 |-- 📂 scripts                       # Código estruturado  
 |   |-- data_preprocessing.py  
 |   |-- clustering_model.py  
